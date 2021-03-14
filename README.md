@@ -5,6 +5,7 @@ In dieser Repository wird das Grundsatzprogramm der Liberalen Demokraten - Die S
 Die jeweils aktuelle Fassung ist in der [main](https://github.com/liberaledemokraten/grundsatzprogramm/tree/main) branch
 unter [Grundsatzprogramm.adoc](Grundsatzprogramm.adoc) zu finden.
 Das Repository bzw. Forks dessen verwenden wir hierbei ggf. auch zur Weiterentwicklung der Programmpunkte zur Vorlage beim nächsten Parteitag.
+Die Formatierung ist hierbei nicht auf GitHub optimiert, sondern zur Nutzung mit [Asciidoctor PDF](https://github.com/asciidoctor/asciidoctor-pdf). 
 
 Eines der Ziele der Veröffentlichung auf GitHub zusätzlich zu der [Veröffentlichung auf unserer Webseite](https://liberale-demokraten.de/positionen/) ist es, unseren Forderung der freien und liberalen Kultur der Transparenz
 und Offenheit gerecht zu werden. Auch wenn wir das parteiintern schon immer derart handhaben, haben diese Prinzipien auch nach außen hin zu gelten.
