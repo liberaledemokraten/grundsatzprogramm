@@ -12,8 +12,8 @@ und Offenheit gerecht zu werden. Auch wenn wir das parteiintern schon immer dera
 Hinzu ermöglicht uns `git` die Versionsgeschichte und Entwicklung unseres Programmes besser nachvollziehen zu können.
 
 Vorschläge unter [Issues: Feature Request](https://github.com/liberaledemokraten/grundsatzprogramm/issues/new?assignees=&labels=&template=feature_request.md&title=%5BIDEA%5D)
-sowie konstruktive Diskussionen sind jederzeit willkommen. Ebenso begrüßen wir [Issues: Fehlerkorrekturen / Hinweise](https://github.com/liberaledemokraten/grundsatzprogramm/issues/new?assignees=&labels=&template=bug_report.md&title=).
-Sofern Du dich aber direkt in der Entwicklung einbringen und auch mitbestimmen möchtest, kannst Du gerne [mitmachen](https://liberale-demokraten.de/mitmachen/).
+sowie konstruktive [Diskussionen](https://github.com/liberaledemokraten/grundsatzprogramm/discussions) sind jederzeit willkommen. Ebenso begrüßen wir [Issues: Fehlerkorrekturen / Hinweise](https://github.com/liberaledemokraten/grundsatzprogramm/issues/new?assignees=&labels=&template=bug_report.md&title=).
+Sofern Du dich aber direkt in die Entwicklung einbringen und auch mitbestimmen möchtest, kannst Du gerne [beitreten & mitmachen](https://liberale-demokraten.de/mitmachen/).
 
 Für Freiheit, Gerechtigkeit und Fortschritt.<br />
 Liberale Demokraten - Die Sozialliberalen.
