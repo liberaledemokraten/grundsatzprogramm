@@ -1,0 +1,13 @@
+# 3 Chancen für die Zukunft
+
+include::3.1-Bildung.adoc[]
+
+include::3.2-StudiumAusbildung.adoc[]
+
+include::3.3-Arbeit.adoc[]
+
+include::3.4-Wirtschaft.adoc[]
+
+include::3.5-Digitales.adoc[]
+
+include::3.6-VerkehrMobilität.adoc[]

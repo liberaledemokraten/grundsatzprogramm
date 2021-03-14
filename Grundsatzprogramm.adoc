@@ -1,0 +1,25 @@
+= Grundsatzprogramm
+der Liberalen Demokraten - Die Sozialliberalen
+Stand November 2020
+:doctype: book
+:icons: font
+:keywords: Grundsatzprogramm, Liberale Demokraten
+:page-keywords: {keywords}
+:toc: macro
+:toclevels: 2
+:toc-title: Inhaltsverzeichnis
+
+toc::[]
+
+include::00-Praeambel/00-Praeambel.adoc[]
+
+include::01-Demokratie-Freiheit/01-Demokratie-Freiheit.adoc[]
+
+include::02-Faire-Gesellschaft/02-Faire-Gesellschaft.adoc[]
+
+include::03-Chancen-fuer-die-Zukunft/03-Chancen-fuer-die-Zukunft.adoc[]
+
+include::04-Gesunder-Planet/04-Gesunder-Planet.adoc[]
+
+include::05-Demokratische-freie-Welt/05-Demokratische-freie-Welt.adoc[]
+

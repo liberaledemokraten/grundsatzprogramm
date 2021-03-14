@@ -1,0 +1,2 @@
+# Präambel
+include::SozialliberaleLeitgedanken.adoc[]
