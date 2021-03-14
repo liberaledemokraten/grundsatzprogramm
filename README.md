@@ -3,7 +3,7 @@ Das Grundsatzprogramm der Liberalen Demokraten - Die Sozialliberalen.
 
 In dieser Repository wird das Grundsatzprogramm der Liberalen Demokraten - Die Sozialliberalen (LD) veröffentlicht und auch in Branches bearbeitet.
 Die jeweils aktuelle Fassung ist in der [main](https://github.com/liberaledemokraten/grundsatzprogramm/tree/main) branch
-unter [grundsatzprogramm.adoc](grundsatzprogramm.adoc) zu finden.
+unter [Grundsatzprogramm.adoc](Grundsatzprogramm.adoc) zu finden.
 Das Repository bzw. Forks dessen verwenden wir hierbei ggf. auch zur Weiterentwicklung der Programmpunkte zur Vorlage beim nächsten Parteitag.
 
 Eines der Ziele der Veröffentlichung auf GitHub zusätzlich zu der [Veröffentlichung auf unserer Webseite](https://liberale-demokraten.de/positionen/) ist es, unseren Forderung der freien und liberalen Kultur der Transparenz
