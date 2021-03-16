@@ -1,0 +1,11 @@
+# 4 Gesunder Planet - Basis für die Zukunft
+
+include::4.1-Klima.adoc[]
+
+include::4.2-Umwelt.adoc[]
+
+include::4.3-Tierschutz.adoc[]
+
+include::4.4-Energie.adoc[]
+
+include::4.5-Landwirtschaft.adoc[]

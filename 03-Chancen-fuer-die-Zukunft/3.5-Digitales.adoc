@@ -1,0 +1,132 @@
+## 3.5 Digitales
+
+Wir Liberalen Demokraten fordern, dass jeder Mensch in Deutschland die Möglichkeit haben muss die Fortschritte der digitalen Technologie in seinem eigenen Leben zu nutzen. Dafür ist zwingend eine Politikwende hin zu einer verbesserten Digitalpädagogik, einer besseren Infrastruktur und hin zu einem neuen gesetzlichen Rahmen, der digitale Geschäftsmodelle ermöglicht und entlastet, nötig. 
+
+Zur Koordination dieser Aufgaben fordern wir die Einführung eines Digitalministeriums auf Ebene des Bundes und der Länder. 
+
+Die technische Ausstattung in öffentlichen Institutionen ist auf den neuesten Stand zu bringen. Bundesweite Standards zur Datensicherheit innerhalb von öffentlichen Einrichtungen und ihrer Online-Präsenzen sind zu verabschieden. Deren Einhaltung ist regelmäßig zu prüfen und attestieren. 
+
+### I. Digitale Chancen nutzen 
+
+#### Bildung 
+
+Unser Bildungssystem muss im Alltag seiner Schüler_innen ankommen und sie besser auf die aktuellen alltäglichen Anforderungen vorbereiten. Im privaten wie im beruflichen Umfeld stellen sich heute neue, digitale Herausforderungen, die neue Kompetenzen verlangen. Damit in Deutschland Schüler_innen ihr volles Potential entfalten können, braucht es eine digitale Revolution des Bildungssystems. 
+
+An allen Schulen sollte ein Pflichtfach Informatik gelehrt werden. Lehrer_innen sollten zu regelmäßigen Teilnahmen an Fortbildungen zu digitalen Themen verpflichtet werden, um den Schüler_innen einen guten Überblick über die aktuelle technische Situation vermitteln zu können. 
+
+Neben der fächerübergreifenden Vermittlung digitaler Fähigkeiten und Kompetenzen hat der Informatikunterricht weitreichende Einblicke in die digitale Welt sowie die Programmierung zu geben. Entscheidend ist zudem, dass im Unterricht explizit auch Datensicherheit behandelt wird, um eine frühzeitige Sensibilisierung mit dem Thema zu gewährleisten. 
+
+Ein digitales Bildungskonzept beinhaltet nicht nur den Einsatz digitaler Medien im Unterricht. Didaktisch-methodische Instrumente müssen in Anbetracht der Möglichkeiten durch neue Technologien weiterentwickelt werden. Der Digitalisierungsprozess soll dabei nicht auf den Schultern der Lehrer_innen oder einzig auf Kosten der Schulträger ausgetragen werden, sondern gemeinsam mit Ihnen. Für Lehrer sind entsprechend attraktive Weiterbildungsangebote zu schaffen und für Schulträger entsprechende Fördermöglichkeiten bereit zu stellen. 
+
+Darüber hinaus müssen die Länder und der Bund gemeinsam Bildungseinrichtungen die nötige Infrastruktur für eine digitale Bildungsumgebung zur Verfügung stellen; dies schließt datenschutztechnisch unbedenkliche Cloud-Lösungen mit ein. 
+
+Wir verweisen weitergehend auf unseren Programmpunkt <<3.1 Bildung>>. 
+
+#### Teilhabe 
+
+Der Netzzugang ist ein Grundrecht und Bedingung für die Teilnahme am öffentlichen, kulturellen und politischen Leben. Der Entzug des Internetzugangs als Strafe ist abzulehnen. Die private finanzielle und ökonomische Situation darf niemanden vom Zugang zur digitalen Kommunikation und Information ausschließen. Für alle Bürger_innen, die selbst nicht über die nötigen Mittel verfügen, müssen die sozialen Sicherungssysteme den Erwerb und Betrieb der notwendigen Technik ermöglichen. Im Rahmen des von uns Liberalen Demokraten geforderten bedingungslosen Grundeinkommens wäre dies sichergestellt. 
+
+Um das Internet als gleichberechtigte Handlungsebene zu erhalten, muss die Netzneutralität, also das Unterlassen von Einflussnahmen auf die Verfügbarkeit, Priorisierung oder Bandbreite durch Zugangsprovider oder den Gesetzgeber, gesetzlich garantiert werden. 
+
+#### Infrastruktur 
+
+In Sachen digitaler Infrastruktur fordern wir Liberale Demokraten, dass Deutschland mittels erheblicher Investitionen endlich zum europäischen Spitzenfeld aufschließt. Für eine erfolgreiche Digitalisierung braucht es einen schnellen, leistungsstarken und flächendeckenden Breitbandausbau. Um diesen zu erreichen fordern wir die Einführung eines Gesamtnetzes statt dem jetzigen Konstrukt paralleler Netze, also die gemeinsame Nutzung der Infrastruktur durch verschiedene Anbieter (National Roaming). 
+
+Die Bereitstellung eines flächendeckenden 5G-Netzes ist durch die bisher üblichen parallelen Netze durch die hohen Frequenzen und die damit verbundene geringe Reichweite gerade in Stadtgebieten mit hoher Nachfrage kaum zu erreichen. Ein Gesamtnetz erlaubt hier einen weitreichenderen und schnelleren Ausbau. Hierdurch können die aus den neuen Technologien entstehenden Chancen schnellstmöglich den Menschen und der Wirtschaft eröffnet werden. Die Liberalen Demokraten lehnen daher die Vergabe exklusiver Funklizenzen für den Antennenbetrieb ab. 
+
+Um die Einführung dieser Funkstandards zu erreichen, ist zunächst die Schaffung eines flächendeckenden Glasfasernetzes nötig. Aktuell ermöglicht lediglich diese Technologie praktisch unbegrenzte Bandbreite und Datengeschwindigkeiten, welche nötig sind, um den steigenden Datenmengen gerecht zu werden. Den Ausbau des 5G Mobilfunknetzes verstehen wir als Erweiterung des Glasfaserausbaus und nicht als separates Thema, da sich beide nicht voneinander trennen lassen. 
+
+Bis 2030 haben mindestens 95% der Hausanschlüsse und 90% der Fläche Deutschlands mit Glasfaseranschlüssen zum Gebäude beziehungsweise zur Wohnung (FttB/FttH) ausgestattet zu sein. 
+
+Gleichzeitig muss allerdings eine Versorgung der kompletten Fläche Deutschlands mit schnellem Internet gewährleistet werden, wo nötig auch über Satellitenverbindungen. Im besonderen Fokus des Ausbaus sollten dabei das Straßen- und Schienennetz stehen, um Reisenden dort eine unterbrechungsfreie Nutzung moderner Technologien zu erlauben. 
+
+#### Freie Soft- und Hardware 
+
+Technologien, die zur offenen, uneingeschränkten Nutzung, Untersuchung, Verbreitung und Veränderung bereitstehen, müssen gefördert werden. Diese erlauben es ihren Nutzer_innen, ihre Funktionsweise zu kontrollieren und sie bei Bedarf gemeinschaftlich und demokratisch weiterzuentwickeln. 
+
+Durch die Nutzung dieser Technologien in öffentlichen Institutionen können langfristig sogar Kosten gesenkt und auch neues Vertrauen geschaffen werden. 
+
+Besonders nötig ist eine solche offene Software bei der Anwendung als Auswertesoftware von Wahlen. Diese sollte immer auf dem neuesten Stand und offen einsehbar sein, um die Sicherheit der Vorgänge zu gewährleisten. 
+
+#### E-Government 
+
+Digitale Behördengänge (E-Government) gehören in vielen Ländern bereits zum Alltag der Bürger, während in Deutschland schon eine online Terminvergabe eine seltene positive Ausnahme ist - dabei stellen Sie eine hervorragende Möglichkeit dar, die Nerven der Bürger und kommunale Ressourcen zu schonen. 
+
+Mit der Einführung des neuen elektronischen Personalausweises (nPA) wurde endlich ein erster kleiner Schritt zur Ermöglichung weitreichenderer E-Government-Aktivitäten in der Bundesrepublik Deutschland getan. Wir Liberale Demokraten fordern, dass diese Möglichkeiten fortan konsequent genutzt werden. Die Wege dazu müssen sicher sein, dürfen aber nicht zu komplex gewählt werden. Login-Mechanismen, Sicherheitsüberprüfungen und Angebotsportale müssen intuitiv bedient werden und ohne größere technische Hürden genutzt werden können. 
+
+Im Rahmen des föderalen Prinzips sollen dafür zentrale Schnittstellen geschaffen werden, die die teilnehmenden Kreise und Kommunen nutzen können. Diese sollen mittelfristig zu einer zentralen Plattform zusammengeführt werden können, während die Daten weiterhin dezentral geführt werden und die Angelegenheiten in den entsprechenden einzelnen Kreisen und Kommunen bearbeitet werden können. 
+
+### II. Mit digitalen Risiken umgehen 
+
+#### Datenschutz und Privatsphäre 
+
+##### Kontrolle über die eigenen Daten 
+
+Viele Menschen teilen heute bereitwillig im Internet ihre Daten. Dadurch werden gewaltige Datenmengen generiert, die Unternehmen, Geheimdienste und Regierungen nutzen können, um ein weitgefächertes Informationssortiment über jeden Bürger/jede Bürgerin anzulegen. Durch die Omnipräsenz solcher Datensammler ist es fast unmöglich vollständig anonym zu bleiben; auch ist es unmöglich allein eine Übersicht zu erlangen welche Informationen durch wen wo über einen gesammelt wurden. Diesen Zustand halten wir Liberale Demokraten für nicht haltbar. 
+
+Deshalb gilt für uns: 
+
+* Personenbezogene Daten sind und bleiben alleiniges Eigentum der jeweiligen Person. Sie allein besitzt die Rechte an diesen Daten. 
+
+* Daten dürfen nicht ohne Einwilligung der Nutzer_innen gesammelt oder anderweitig genutzt werden. 
+
+* Jeder Bürger muss gegenüber den Betreibern zentraler Datenbanken jederzeit einen durchsetzbaren und unentgeltlichen Anspruch auf Selbstauskunft, sowie auf Korrektur, Sperrung und Löschung der Daten haben. 
+
+##### Nutzerfreundlicher Datenschutz 
+
+Mit Einführung der DSGVO wurden bereits einige Verbesserungen im Sinne der Kontrolle über die eigenen Daten ermöglicht. Jedoch bitten nun alle Webseitenbetreiber_innen explizit um Zustimmung anhand von Bannern oder Pop-Up Fenstern. Auch müssen Nutzer die Einstellungen immer wieder aufs Neue setzen und bestätigen. Dieses Vorgehen ist nicht nutzerfreundlich. Wir fordern daher dieses Verfahren im Sinne der Nutzerfreundlichkeit zu vereinfachen und zu vereinheitlichen. 
+
+Viele Browser gestatten das automatische Setzen des sogenannten DNT (do not track, dt. verfolge mich nicht) Headers. Damit können die Nutzer_innen einem Web Server mitteilen, dass sie jeglicher Aktivitätsverfolgung widersprechen. Dennoch wird dieser kaum von Webseitenbetreiber_innen respektiert, auch vermittelt er keine Informationen darüber, ob Nutzer_innen der Speicherung von Cookies zustimmen, und falls ja welcher Art von Cookies. 
+
+Um dies zu beheben fordern wir die Einführung eines weiteren Headers aus dem hervorgeht, ob Nutzer_innen der Verwendung von Cookies zustimmen, und, wenn ja, welcher Art von Cookies (funktional notwendige, funktional empfohlene, und für die einwandfreie Funktion der Dienste vernachlässigbare Cookies). Bei der Erarbeitung des Headers muss es eine internationale Zusammenarbeit mit dem Ziel einer Standardisierung geben. Die Respektierung dieses Headers und des DNT Headers, falls von Nutzer_innen gesetzt, soll für Webseitenbetreiber_innen EU-weit, optimalerweise sogar weltweit, verpflichtend sein. 
+
+##### Aufklärung 
+
+Die Aufklärung der Bevölkerung über die Risiken einer uneingeschränkten Datensammlung ist elementarer Bestandteil des Datenschutzes. Wir beobachten besorgt, dass viele Bürger_innen ihre Daten unbesorgt und bereitwillig an Unternehmen oder den Staat abgeben, ohne sich über die Gefahren und Konsequenzen bewusst zu sein. 
+
+#### Verbraucherschutz 
+
+Bei vielen IoT (Internet of Things, dt. Internet der Dinge) Geräten oder Software ist es oftmals üblich, dass die Datenschutzerklärungen und die Nutzungsbedingungen erst nach dem Erwerb ersichtlich werden. In einigen Fällen kann dies deshalb dazu führen, dass Nutzer_innen diesen Bedingungen nicht zustimmen, aber den Artikel bereits bezahlt haben oder ihn bezahlen und behalten müssen. 
+
+Wir Liberale Demokraten fordern daher für alle internetfähigen Geräte und Software ein allgemeines Widerrufsrecht von 14 Tagen ab Bekanntgabe der Datenschutzerklärung und Nutzungsbedingungen. Anderweitiges Widerrufsrecht, wie etwa im Rahmen des Fernabsatzgesetzes, soll hiervon unberührt bleiben. 
+
+#### Cyberabwehr 
+
+Die weltweite Kriegsführung ist längst nicht mehr auf die analoge Welt beschränkt. 
+
+Destabilisationskampagnen zu Wahlen, Spionage durch Auslandsgeheimdienste und Angriffe durch staatliche oder staatlich unterstützte Hackerorganisationen sind längst häufig genutzte und in ihrer Gefahr nicht zu unterschätzende Mittel. 
+
+Wir verurteilen den Einsatz und die Bereitstellung jeglicher offensiver Wirkmittel im Cyberraum. 
+
+Gleichzeitig muss sich Deutschland und Europa in die Lage versetzen, sich gegen Cyberattacken zu verteidigen. Hierzu sind entsprechende Vorkehrungen, etwa durch die Entwicklung und Implementierung von Patches, Intrusion-Detection und Firewallregeln, zu treffen. 
+
+IT-Fachkräfte müssen konstante Cybersecurity-Weiterbildungen erhalten, um auf dem neuesten Stand der Technik Sicherheit gewährleisten zu können. IT-Sicherheit sollte nicht nur Bestandteil des Informatikstudiums sein, sondern auch als eigenständiger Studiengang angeboten werden. Eine hohe IT-Sicherheit könnte für Deutschland einen wichtigen Standortvorteil bieten. 
+
+Außerdem muss Europa eine digitale Souveränität herstellen, indem es die Abhängigkeit von auswärtigen Technologien gerade im Bereich der sicherheitsrelevanten Infrastruktur zurückdrängt. 
+
+#### Geheimdienste 
+
+Die Bürger_innen müssen konsequent vor der anlasslosen Überwachung durch inländische wie ausländische Geheimdienste geschützt werden. Bei der Datenerfassung muss der Grundsatz „im Zweifel für die Freiheit“ gelten. Aus diesem Grund lehnen wir Liberale Demokraten jegliche Maßnahmen zur Erhöhung der Sicherheit, die mit einem unverhältnismäßigen Einschnitt in die Freiheit einhergehen, ab. 
+
+#### Whistleblower_innen 
+
+Menschen, die den Mut zeigen verborgene Missstände öffentlich zu machen, sog. Whistleblower_innen dürfen weder benachteiligt noch verfolgt werden.
+
+Wir fordern diejenigen, die auch unbequeme Wahrheiten, zum Teil unter persönlicher Gefahr aussprechen und weitergeben, unter besonderen Schutz zu stellen. Kein/e Whistleblower_in darf dorthin zurückgeschickt werden, wo ihr/ihm Tod, Folter oder politische Verfolgung drohen. Deutschland und Europa hat sich außenpolitisch auch international für die Rechte und Unversehrtheit von Whistleblower_innen und deren Familien einzusetzen. 
+
+#### Urheber- und Patentrecht 
+
+Es gibt laut Gesetz keine Softwarepatente, dennoch hat das Europäische Patentamt bislang hunderte von ihnen erteilt. Diese Patente sind allesamt zu löschen. Es muss gesetzlich sichergestellt werden, dass es auch in Zukunft keine Softwarepatente gibt. 
+
+Im Umgang mit Urheberrechten ist auf einen sinnvollen Interessenausgleich zwischen den Urheber_innen und Konsument_innen zu achten. Der Urheberrechtsschutz darf nicht weiter ausufern. Die Durchsetzung der Rechte der Verwertungsindustrie hat zu einem massenhaft betriebenen Abmahn-Geschäftsmodell und damit einhergehend zu einem Rechtsmissbrauch zum Nachteil der Konsument_innen geführt. Wir fordern als Reaktion darauf die Einführung einer Bagatellgrenze für die Verfolgung von Verletzungen der Immaterialgüterrechte sowie die Einschränkung der Kosten bei der Durchsetzung gegen Privatleute ohne kommerzielle Vorteile aus einer solchen Verletzung. 
+
+Den Einsatz von Uploadfiltern lehnen wir mit Verweis auf die Gefahr einer automatisierten Zensur entschieden ab. 
+
+#### Wahlcomputer 
+
+Wir Liberale Demokraten lehnen den Einsatz von Wahlcomputern ab, da nach Urteil etlicher Fachexperten eine demokratische, kontrollierbare, geheime und sichere Wahl technisch aktuell nicht umsetzbar sei. Weder Nachvollziehbarkeit noch Verifizierbarkeit des Vorganges durch die Wähler_innen wäre auf Grund der nötigen Komplexität der Systeme gegeben. Inwiefern sich dies zukünftig ändert bleibt abzuwarten; nach aktuellem Stand ist dies jedoch als unwahrscheinlich zu erachten.
+
+Für uns ist nach Gegenüberstellung von Nutzen und Risiken klar ersichtlich, dass letztlich ein Verbleib beim etablierten und nachvollziehbaren Wahlverfahren mit Papier und Stift aktuell die sinnvollste Lösung darstellt.
+
+Im Hinblick auf den rapiden technischen Fortschritt werden wir dennoch die Entwicklung und Verbesserung alternative Wahlsysteme auch weiterhin kritisch begleiten und entsprechend hinsichtlich pro und contra abwägend mit dem etablierten Verfahren vergleichen.
+

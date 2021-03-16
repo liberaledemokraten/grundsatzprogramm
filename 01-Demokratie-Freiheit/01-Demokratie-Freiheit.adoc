@@ -1,0 +1,11 @@
+# 1 Demokratie und Freiheit
+
+include::1.1-Grundrechte.adoc[]
+
+include::1.2-Demokratie.adoc[]
+
+include::1.3-Transparenz.adoc[]
+
+include::1.4-Privatsphäre.adoc[]
+
+include::1.5-Verbraucherschutz.adoc[]

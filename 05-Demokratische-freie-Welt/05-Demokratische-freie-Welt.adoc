@@ -1,0 +1,5 @@
+# 5 Demokratische und freie Welt
+
+include::5.1-Europa.adoc[]
+
+include::5.2-AußenSicherheit.adoc[]

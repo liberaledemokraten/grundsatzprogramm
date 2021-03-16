@@ -1,0 +1,15 @@
+# 2 Faire Gesellschaft
+
+include::2.1-bGE.adoc[]
+
+include::2.2-Soziales.adoc[]
+
+include::2.3-JugendFamilie.adoc[]
+
+include::2.4-AsylMigration.adoc[]
+
+include::2.5-Gesundheit.adoc[]
+
+include::2.6-Drogen.adoc[]
+
+include::2.7-JustizVollstreckung.adoc[]
