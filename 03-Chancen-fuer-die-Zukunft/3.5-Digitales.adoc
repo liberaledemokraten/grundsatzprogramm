@@ -54,6 +54,14 @@ Durch die Nutzung dieser Technologien in öffentlichen Institutionen können lan
 
 Besonders nötig ist eine solche offene Software bei der Anwendung als Auswertesoftware von Wahlen. Diese sollte immer auf dem neuesten Stand und offen einsehbar sein, um die Sicherheit der Vorgänge zu gewährleisten. 
 
+#### Open Source Referenzimplementierung
+
+Mit zunehmender Digitalisierung wird oft auch ein rechtlicher Rahmen für die digitale Infrastruktur gesetzt. Diese werden allzu oft in Form von proprietären Lösungen von wirtschaftlichen Unternehmen umgesetzt. Zur liberalen Politik gehört es dabei auch die unternehmerische Entscheidung, proprietäre Lösungen umzusetzen, zu akzeptieren.
+
+Um offene Lösungen zu unterstützen sowie Personengruppen, die diese Software nutzen können oder brauchen nicht auf kostenpflichtige sowie proprietäre Lösungen zu zwingen, ist jedoch mindestens 3 Monate vor Inkrafttreten einer solchen gesetzlichen Regelung eine quelloffene Referenzimplementierung zu veröffentlichen. Diese Referenzimplementierung hat hierbei mit den gängigsten Open Source Lizenzen kompatibel zu sein.
+
+Alle etwaigen sonstigen Implementierungen, so auch etwaige proprietäre Lösungen, sind hierbei mit der Referenzimplementierung kompatibel zu sein. Eine der Voraussetzungen für diese Kompatibilität ist hierbei die Interoperabilität und die Möglichkeit eines Datenex- und imports.
+
 #### Open Data
 
 Wir fordern eine allgemeine Veröffentlichungspflicht für öffentliche Datenbestände. Dafür braucht es auf Ebene des Bundes, der Länder und der Kommunen angepasste und leistungsfähige Lösungen und Konzepte, die das Potential dieser offenen Daten voll zugänglich machen.
@@ -65,7 +73,13 @@ Digitale Behördengänge (E-Government) gehören in vielen Ländern bereits zum 
 
 Mit der Einführung des neuen elektronischen Personalausweises (nPA) wurde endlich ein erster kleiner Schritt zur Ermöglichung weitreichenderer E-Government-Aktivitäten in der Bundesrepublik Deutschland getan. Wir Liberale Demokraten fordern, dass diese Möglichkeiten fortan konsequent genutzt werden. Die Wege dazu müssen sicher sein, dürfen aber nicht zu komplex gewählt werden. Login-Mechanismen, Sicherheitsüberprüfungen und Angebotsportale müssen intuitiv bedient werden und ohne größere technische Hürden genutzt werden können. 
 
-Im Rahmen des föderalen Prinzips sollen dafür zentrale Schnittstellen geschaffen werden, die die teilnehmenden Kreise und Kommunen nutzen können. Diese sollen mittelfristig zu einer zentralen Plattform zusammengeführt werden können, während die Daten weiterhin dezentral geführt werden und die Angelegenheiten in den entsprechenden einzelnen Kreisen und Kommunen bearbeitet werden können. 
+Im Rahmen des föderalen Prinzips sollen dafür zentrale Schnittstellen geschaffen werden, die die teilnehmenden Kreise und Kommunen nutzen können. Diese sollen mittelfristig zu einer zentralen Plattform zusammengeführt werden können, während die Daten weiterhin dezentral geführt werden und die Angelegenheiten in den entsprechenden einzelnen Kreisen und Kommunen bearbeitet werden können.
+
+Sämtliche Behörden sollen über ein föderiertes System miteinander verbunden werden und mit einer freiwillig erteilten Zustimmung der betroffenen Person im Zuge eines Antrages durch die Person relevante Daten direkt abfragen und übernehmen können statt einer Eingabe durch die Person zu bedürfen. Hierdurch sollen für Bürger_innen komplizierte bürokratische Prozesse möglichst gemieden und eine bürgerorientierte Bürokratie angeboten werden. Auch sollen Behörden somit schneller und effizienter an Information gelangen.
+
+Die Einwilligung hat sich hierbei an den Prinzipien der Datenschutz-Grundverordnung (DSGVO) zu richten. Die manuelle Eingabe der Daten soll bei fehlender oder widerrufener Einwilligung weiterhin möglich sein.
+
+Jede Einwilligung ist derart zu protokollieren, dass klar ersichtlich ist, wer wann in welcher Form in welchem Ausmaß die Einwilligung erteilt hat. Jeder Datenabruf ist samt der Einwilligung oder Rechtsgrundlage des Datenabrufs, den Umfang der Daten, den konkreten Nutzungszweck dieser Daten sowie den Namen der Behörde und der bearbeitenden Person für mindestens 10 Jahre zu speichern. Betroffene Personen haben dabei stets die Möglichkeit, eine vollständige Kopie dieser Protokolle zu erhalten.
 
 ### II. Mit digitalen Risiken umgehen 
 
@@ -101,11 +115,15 @@ Zur Sicherung des individuellen Rechts auf Privatheit halten wir die Möglichkei
 
 Der Staat sollte sich am Erhalt und an der Verbreitung sicherer Verschlüsselungsmethoden beteiligen, statt die Entwicklung von Hintertüren und Sicherheitslücken zu unterstützen. Er selbst sollte mit gutem Beispiel vorangehen und sichere, quelloffene kryptographische Lösungen einsetzen.
 
+#### Rechtssichere Kommunikation
+
+Wir Liberale Demokraten entgegnen dem bisherigen Stand der rechtssicheren elektronischen Kommunikation mit Bedenken. So gelten Faxe als rechtssicher, obwohl heutzutage Faxe meist mittels unverschlüsselter Audiosignale via VoIP durch das offene Internet vermittelt werden während selbst E-Mail-Nachrichten bereits eine höhere Manipulationssicherheit bieten können aber nicht als rechtssicher angesehen werden. Das verdeutlicht dabei, dass der Begriff der rechtssicheren Kommunikation zu überdenken ist. Dabei sind auch Mindestvoraussetzungen hierfür klar zu definieren und gesetzlich zu verankern.
+
 #### Verbraucherschutz 
 
 Bei vielen IoT (Internet of Things, dt. Internet der Dinge) Geräten oder Software ist es oftmals üblich, dass die Datenschutzerklärungen und die Nutzungsbedingungen erst nach dem Erwerb ersichtlich werden. In einigen Fällen kann dies deshalb dazu führen, dass Nutzer_innen diesen Bedingungen nicht zustimmen, aber den Artikel bereits bezahlt haben oder ihn bezahlen und behalten müssen. 
 
-Wir Liberale Demokraten fordern daher für alle internetfähigen Geräte und Software ein allgemeines Widerrufsrecht von 14 Tagen ab Bekanntgabe der Datenschutzerklärung und Nutzungsbedingungen. Anderweitiges Widerrufsrecht, wie etwa im Rahmen des Fernabsatzgesetzes, soll hiervon unberührt bleiben. 
+Wir Liberale Demokraten fordern daher für alle internetfähigen Geräte und Software ein allgemeines Widerrufsrecht von 14 Tagen ab Bekanntgabe der Datenschutzerklärung und Nutzungsbedingungen. Anderweitiges Widerrufsrecht, wie etwa im Rahmen von Fernabsatzgeschäften, soll hiervon unberührt bleiben. 
 
 #### Cyberkriminalität
 
