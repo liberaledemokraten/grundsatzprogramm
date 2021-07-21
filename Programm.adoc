@@ -1,9 +1,9 @@
-= Grundsatzprogramm
+= Programm
 der Liberalen Demokraten - Die Sozialliberalen
 Stand November 2020
 :doctype: book
 :icons: font
-:keywords: Grundsatzprogramm, Liberale Demokraten
+:keywords: Parteiprogramm, Liberale Demokraten
 :page-keywords: {keywords}
 :toc: macro
 :toclevels: 2

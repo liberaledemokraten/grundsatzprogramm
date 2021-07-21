@@ -9,3 +9,5 @@ include::1.3-Transparenz.adoc[]
 include::1.4-Privatsphäre.adoc[]
 
 include::1.5-Verbraucherschutz.adoc[]
+
+include::1.6-Rundfunk.adoc[]
