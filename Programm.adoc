@@ -1,6 +1,6 @@
 = Programm
 der Liberalen Demokraten - Die Sozialliberalen
-Stand November 2020
+Stand Juli 2021
 :doctype: book
 :icons: font
 :keywords: Parteiprogramm, Liberale Demokraten
