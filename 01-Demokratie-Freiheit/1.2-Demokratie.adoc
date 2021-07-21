@@ -111,7 +111,7 @@ Die Volksvertretung kann entscheiden, die Entscheidung über ein Bürgerbegehren
 
 * Der Schritt von der Bürgerinitiative zum Bürgerbegehren muss einer sein, der zeigt, dass zum Thema genug Interesse in großen Teilen der Bevölkerung besteht.
 
-* Der Schritt vom Bürgerbegehren zum Bürgerentscheid muss in Zusammenarbeit zwischen den Initiatoren und der Volksvertretung erfolgen. 
+* Der Schritt vom Bürgerbegehren zum Bürgerentscheid muss in Zusammenarbeit zwischen den Initiatoren und der Volksvertretung erfolgen. Die Forderung des Bürgerentscheides ist präzise, eindeutig und verständlich zu formulieren.
 
 * Die Zulassung für einen Bürgerentscheid erhalten nur Bürgerbegehren, die nicht die Rechte von Minderheiten oder sonstiger Schutzbedürftiger beschneiden. Die Wahrung der Menschen- und Grundrechte steht an erster Stelle. 
 
@@ -119,7 +119,7 @@ Die Volksvertretung kann entscheiden, die Entscheidung über ein Bürgerbegehren
 
 * Es dürfen Bürgerinitiativen zu Verfassungsänderungen stattfinden. Ebenfalls dürfen diese als Bürgerbegehren bei der Volksvertretung eingereicht werden. Allerdings kann deren Behandlung im Rahmen eines Bürgerentscheides nicht erzwungen werden. Die Volksvertretung kann jedoch, wenn in ihren Reihen dafür eine verfassungsgebende Mehrheit vorliegt, eine ihr oder von ihr vorgeschlagene Verfassungsänderung per Bürgerentscheid bestätigen lassen. Hierfür bedarf es im Bürgerentscheid ebenfalls einer verfassungsgebenden Mehrheit. 
 
-* Bürgerentscheide erfordern immer eine qualifizierte Mehrheit. 
+* Bürgerentscheide erfordern immer eine qualifizierte Mehrheit. Sofern eine Mehrheit - jedoch nicht eine qualifizierte Mehrheit - für die Forderung im Bürgerentscheid stimmen, sollen die Initiatoren einen finalen zweiten Bürgerentscheid fordern können.
 
 * Eine Wahlbeteiligung von mind. 50% der Wahlberechtigten ist für die Gültigkeit eines Bürgerentscheides erforderlich.
 
@@ -127,7 +127,7 @@ Die Volksvertretung kann entscheiden, die Entscheidung über ein Bürgerbegehren
 
 * Steuern dürfen nicht durch einen Bürgerentscheid festgesetzt oder aufgehoben werden. Allerdings können hierzu Bürgerinitiativen gestartet und Bürgerbegehren eingereicht werden. 
 
-* Ein Bürgerbegehren gleichen Inhalts darf nicht mehrfach in derselben Legislaturperiode eingereicht werden. 
+* Ein Bürgerbegehren gleichen Inhalts darf nicht mehrfach in derselben Legislaturperiode eingereicht werden. Eine Ausnahme hierzu gilt, sofern eine signifikante Änderung in den Umständen vorliegt. Über die signifikante Natur der Änderung hat im Zweifel ein Gericht zu urteilen.
 
 ### IV. Trennung von Religion und Staat 
 
