@@ -22,11 +22,17 @@ Darüber hinaus müssen die Länder und der Bund gemeinsam Bildungseinrichtungen
 
 Wir verweisen weitergehend auf unseren Programmpunkt <<3.1 Bildung>>. 
 
-#### Teilhabe 
+#### Teilhabe und Netzneutralität
 
 Der Netzzugang ist ein Grundrecht und Bedingung für die Teilnahme am öffentlichen, kulturellen und politischen Leben. Der Entzug des Internetzugangs als Strafe ist abzulehnen. Die private finanzielle und ökonomische Situation darf niemanden vom Zugang zur digitalen Kommunikation und Information ausschließen. Für alle Bürger_innen, die selbst nicht über die nötigen Mittel verfügen, müssen die sozialen Sicherungssysteme den Erwerb und Betrieb der notwendigen Technik ermöglichen. Im Rahmen des von uns Liberalen Demokraten geforderten bedingungslosen Grundeinkommens wäre dies sichergestellt. 
 
-Um das Internet als gleichberechtigte Handlungsebene zu erhalten, muss die Netzneutralität, also das Unterlassen von Einflussnahmen auf die Verfügbarkeit, Priorisierung oder Bandbreite durch Zugangsprovider oder den Gesetzgeber, gesetzlich garantiert werden. 
+Um das Internet als gleichberechtigte Handlungsebene zu erhalten, muss die Netzneutralität, also das Unterlassen von Einflussnahmen auf die Verfügbarkeit, Priorisierung oder Bandbreite durch Zugangsprovider oder den Gesetzgeber, gesetzlich garantiert werden.
+
+#### Partizipation
+
+Die Digitalisierung bietet erhebliche Chancen für eine Weiterentwicklung der politischen Willensbildung. Neue, bürgeroffene Demokratie- und Mitbestimmungsformate bieten die Möglichkeit sich über politische Entscheidungswege eingehend zu informieren und in sie einzutauchen. Mitbestimmungsformate müssen einer ständigen Evaluation unterzogen werden, um ihre Effizienz im demkroratischen Prozeß zu untersuchen und um zu überpüfen, ob alle Bürger den nötigen Zugang zu allen wesentlichen Informationen haben, um erfolgreich am Entscheidungsprozeß teilnehmen zu können.
+
+Insbesondere wird durch neue Technologien eine themenspezifische Partizipation anstelle der klassischen Weitergabe politischer Verantwortung über alle Themen hinweg möglich. Daraus sollte eine Öffnung der politischen Beteiligungsprozesse entwickelt werden, die nicht nur staatliche Institutionen, sondern auch solche in Nicht-Regierungsorganisationen betrifft. Wir Liberale Demokraten sehen uns hier als Partei in der Pflicht.
 
 #### Infrastruktur 
 
@@ -47,6 +53,11 @@ Technologien, die zur offenen, uneingeschränkten Nutzung, Untersuchung, Verbrei
 Durch die Nutzung dieser Technologien in öffentlichen Institutionen können langfristig sogar Kosten gesenkt und auch neues Vertrauen geschaffen werden. 
 
 Besonders nötig ist eine solche offene Software bei der Anwendung als Auswertesoftware von Wahlen. Diese sollte immer auf dem neuesten Stand und offen einsehbar sein, um die Sicherheit der Vorgänge zu gewährleisten. 
+
+#### Open Data
+
+Wir fordern eine allgemeine Veröffentlichungspflicht für öffentliche Datenbestände. Dafür braucht es auf Ebene des Bundes, der Länder und der Kommunen angepasste und leistungsfähige Lösungen und Konzepte, die das Potential dieser offenen Daten voll zugänglich machen.
+Rechtliche Regelungen und Entscheidungen sollten in einer maschinenlesbaren Datenbank gebündelt werden.
 
 #### E-Government 
 
@@ -82,13 +93,23 @@ Um dies zu beheben fordern wir die Einführung eines weiteren Headers aus dem he
 
 ##### Aufklärung 
 
-Die Aufklärung der Bevölkerung über die Risiken einer uneingeschränkten Datensammlung ist elementarer Bestandteil des Datenschutzes. Wir beobachten besorgt, dass viele Bürger_innen ihre Daten unbesorgt und bereitwillig an Unternehmen oder den Staat abgeben, ohne sich über die Gefahren und Konsequenzen bewusst zu sein. 
+Die Aufklärung der Bevölkerung über die Risiken einer uneingeschränkten Datensammlung ist elementarer Bestandteil des Datenschutzes. Wir beobachten besorgt, dass viele Bürger_innen ihre Daten unbesorgt und bereitwillig an Unternehmen oder den Staat abgeben, ohne sich über die Gefahren und Konsequenzen bewusst zu sein.
+
+#### Recht auf Verschlüsselung
+
+Zur Sicherung des individuellen Rechts auf Privatheit halten wir die Möglichkeit einer sicheren und vertrauenswürdigen Ende-zu-Ende-Verschlüsselung für unabdingbar. Wir wollen, dass alle privaten Kommunikations- und Speicherdienste zur Nutzung dieser Technologie verpflichtet werden.
+
+Der Staat sollte sich am Erhalt und an der Verbreitung sicherer Verschlüsselungsmethoden beteiligen, statt die Entwicklung von Hintertüren und Sicherheitslücken zu unterstützen. Er selbst sollte mit gutem Beispiel vorangehen und sichere, quelloffene kryptographische Lösungen einsetzen.
 
 #### Verbraucherschutz 
 
 Bei vielen IoT (Internet of Things, dt. Internet der Dinge) Geräten oder Software ist es oftmals üblich, dass die Datenschutzerklärungen und die Nutzungsbedingungen erst nach dem Erwerb ersichtlich werden. In einigen Fällen kann dies deshalb dazu führen, dass Nutzer_innen diesen Bedingungen nicht zustimmen, aber den Artikel bereits bezahlt haben oder ihn bezahlen und behalten müssen. 
 
 Wir Liberale Demokraten fordern daher für alle internetfähigen Geräte und Software ein allgemeines Widerrufsrecht von 14 Tagen ab Bekanntgabe der Datenschutzerklärung und Nutzungsbedingungen. Anderweitiges Widerrufsrecht, wie etwa im Rahmen des Fernabsatzgesetzes, soll hiervon unberührt bleiben. 
+
+#### Cyberkriminalität
+
+Mit einer zunehmenden Digitalisierung verlagert sich auch die Kriminalität in den virtuellen Raum. Dieser Entwicklung müssen wir uns ohne Angst und gut vorbereitet stellen. Grundwissen über die Abwehr von Cyberkriminalität sowie zur generellen Cybersicherheit muss an jeder Polizeiwache vorhanden sein und in die Gesellschaft hineingetragen werden. Außerdem sollte es an möglichst vielen Polizeiwachen Fachpersonal für den Themenkomplex Cyberkriminalität geben.
 
 #### Cyberabwehr 
 
@@ -108,11 +129,27 @@ Außerdem muss Europa eine digitale Souveränität herstellen, indem es die Abh�
 
 Die Bürger_innen müssen konsequent vor der anlasslosen Überwachung durch inländische wie ausländische Geheimdienste geschützt werden. Bei der Datenerfassung muss der Grundsatz „im Zweifel für die Freiheit“ gelten. Aus diesem Grund lehnen wir Liberale Demokraten jegliche Maßnahmen zur Erhöhung der Sicherheit, die mit einem unverhältnismäßigen Einschnitt in die Freiheit einhergehen, ab. 
 
+#### Europäische und internationale Kooperation
+
+Nur durch eine proaktive Haltung können wir sicherstellen, dass die Digitalisierung im Sinne unserer Demokratie arbeitet und nicht gegen sie. Wir müssen uns international und insbesondere innerhalb von Europa für die Weiterentwicklung digitaler Demokratie einsetzen.
+
+Innerhalb Europas muss sich Deutschland entschieden gegen die Untergrabung der Bürgerrechte durch digitale Mittel stellen, etwa durch massive, unangemessene Einsätze biometrischer Technologien.
+
+Deutschland sollte international der Gruppe der „Digital Nations“ beitreten, einer Gemeinschaft weltweit führender digitaler Regierungen.
+
 #### Whistleblower_innen 
 
 Menschen, die den Mut zeigen verborgene Missstände öffentlich zu machen, sog. Whistleblower_innen dürfen weder benachteiligt noch verfolgt werden.
 
 Wir fordern diejenigen, die auch unbequeme Wahrheiten, zum Teil unter persönlicher Gefahr aussprechen und weitergeben, unter besonderen Schutz zu stellen. Kein/e Whistleblower_in darf dorthin zurückgeschickt werden, wo ihr/ihm Tod, Folter oder politische Verfolgung drohen. Deutschland und Europa hat sich außenpolitisch auch international für die Rechte und Unversehrtheit von Whistleblower_innen und deren Familien einzusetzen. 
+
+#### Algorithmentransparenz
+
+Viele Entscheidungen, die unserer Leben direkt betreffen und verändern, werden heute vollautomatisch von Algorithmen getroffen. Um die individuelle Selbstbestimmung der Bürger_innen und die Gleichheitsgrundsätze unserer Gesellschaft zu gewährleisten, müssen entscheidungstreffende Algorithmen deshalb nachvollziehbar sein.
+
+Wir Liberale Demokraten fordern daher eine Veröffentlichungspflicht über alle Algorithmen, die Entscheidungen treffen. Darunter fallen zum Beispiel Werbeempfehlungen, Prognosen über die Identität der Nutzer und Entscheidungen über die auf einer Website angezeigten oder ausgeblendeten Inhalte.
+
+Folgende Eigenschaften sollten veröffentlicht werden: Ein- und Ausgabedaten, eine qualitative Beschreibung der Entscheidungsfindung und die statistische Klassifizierung. Diese Angaben müssen so genau sein, dass eine qualitative Überprüfung des Algorithmus möglich ist. In diesem Rahmen ist auch eine grundsätzliche Erlaubnis eines „Reverse Engineerings“ zum Zwecke der Überprüfung sinnvoll.
 
 #### Urheber- und Patentrecht 
 
