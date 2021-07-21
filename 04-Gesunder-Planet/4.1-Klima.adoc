@@ -1,92 +1,143 @@
 ## 4.1 Klima
 
-### I . Gründe für unsere Forderungen
+Die Menschheit steht einer globalen Klimakatastrophe gegenüber. Weltweit häufiger werdende Wald- und Buschbrände, extreme Wetterlagen, versauernde Ozeane und steigende Ozeanspiegel haben diese Tatsache, vor der Wissenschaftler_innen seit Jahrzehnten warnen, endlich ins Bewusstsein vieler Bürger_innen gebracht.  
 
-Das Pariser Klimaabkommen mit seinem 1,5 Grad Ziel und den verabredeten Zeiträumen ist einerseits unredlich und andererseits viel zu schwach.
+Mit dem Pariser Klimaschutzabkommen von 2015 hat sich die internationale Staatengemeinschaft verpflichtet, die Erderwärmung auf 2°C, wenn möglich sogar 1,5°C zu begrenzen. Diese Ziele sind mit den aktuellen Maßnahmen nicht zu erreichen, obwohl sie eigentlich nur als letzte noch akzeptable Worst-Case-Szenarios angesehen werden sollten.  
 
-Wir müssen schneller und massiver den gesellschaftlichen Anteil an der Erderwärmung beseitigen.
-Ein Ende oder eine Umkehr des Klimawandels kann allerdings niemand garantieren. Es gibt keinen Thermostaten für die Erde, keinen Stellknopf für die Natur, daher ist eine Prognose nicht wirklich möglich. Es kann sein, dass wir den Punkt ohne Umkehr schon überschritten haben, die Erwärmung in einer Kettenreaktion von Folgeereignissen längst zu einem Selbstläufer geworden ist, und in den nächsten Jahrzehnten bestenfalls eine Verlangsamung des Klimawandels möglich ist.
+Gerade Deutschland wäre in der Lage seinen Teil zu tun und sich an die Spitze einer globalen Anstrengung zur Rettung unseres Klimas zu stellen, um schnellstmöglich auch anderswo auf der Welt helfen zu können. Hier führend zu sein ist nicht nur eine aus Verantwortung geborene Notwendigkeit, sondern auch eine wirtschaftliche Chance. In jedem Fall kostet uns ambitionierter Klimaschutz weniger als die Folgen eines ungebremsten Klimawandels.
 
-Wir sollten uns also nicht ausschließlich auf eine Beendigung fixieren, sondern auch vielmehr Vorsorge treffen bezüglich der dramatischen Folgen, wie Trockenheit und Überflutungen, die wir möglicherweise nicht verhindern können. Trockenheit beeinflusst nicht nur Ernten und die Trinkwasserversorgung, sondern kann auch zum Abschalten von Kraftwerken führen. Überflutungen haben umfangreiche Umsiedlungen zur Folge.
 
-Deshalb ist es so oder so sinnvoll, alles zu tun, um die Folgen des Klimawandels möglichst lange hinauszuzögern, entweder in der Hoffnung auf eine Umkehr oder als Zeitgewinn für eine Vorsorge. Zudem ist es aus Gründen der Nachhaltigkeit und Versorgungssicherheit bei unserem stark zunehmenden Energieverbrauch ohnehin sinnvoll, die weitestgehende wenn nicht gar ausschließliche Versorgung durch Sonnenenergie möglichst schnell anzustreben, da sie uns im Übermaß zur Verfügung steht. Mindestens den Klimawandel können wir damit abmildern, sind aber auch gerüstet für das Ende von fossilen und radioaktiven Ressourcen und den zunehmenden Energiebedarf. 
+### I. Emissionen bepreisen
+#### Emissionspreis
 
-Allerdings hat auch die Sonnenenergienutzung ihrerseits Nachteile und Nebenwirkungen.
+Wichtigstes Element eines erfolgreichen Vorgehens gegen den Klimawandel ist für uns eine sozial gerechte Emissionsbepreisung, die alle Sektoren abdeckt. Das Modell unserer Wahl ist dabei ein sozialverträglicher CO2-Zertifkatehandel mit Preiskorridor. Dieser sollte möglichst aus dem bestehenden Europäischen Emissionshandel hervorgehen, kann aber alternativ kurzfristig als nationales System etabliert werden, das für Partnerländer offen ist. Langfristig muss ein globales, sektorenübergreifendes System etabliert werden.
 
-Ein sofortiger Verzicht auf andere Energieträger als Elektrizität nimmt uns aber Ausfallsicherheit und Anpassungsfreiheiten, insbesondere bei Katastrophen.
+Das Prinzip ist einfach: Wer eine Tonne CO2 (oder ein anderes Treibhausgas) ausstößt, muss dafür ein Zertifikat erwerben. Der Preis dieser Zertifikate bildet sich nach Angebot und Nachfrage, vergleichbar mit dem Handel von Unternehmensanteilen. Um eine Planungssicherheit für Unternehmen zu gewährleisten, sollte dabei allerdings ein kontinuierlich steigender Preiskorridor festgelegt werden.  
 
-Es macht keinen Sinn, sich jetzt für das vermeintlich einzig Richtige zu entscheiden — wir können es nicht nur nicht, wir brauchen es auch nicht. Vielfalt ist die Lösung und Veränderungen an sich brauchen auch Energie und erzeugen Schadstoffe. Deshalb brauchen wir dringend regenerative Brennstoffe.
+Durch diesen schlanken Mechanismus kann unser CO2-Austoß zielgenau auf unser verbleibendes Emissionsbudget bei Einhaltung der Klimaziele eingestellt werden, ohne einen sich ständig ändernden CO2-Preis zum Spielball politischer Akteure zu machen. Das Ziel ist eine Klimaneutralität bis 2035.
 
-Eine direkte Nutzung des Zwischenprodukts Wasserstoff sollte nicht ausdrücklich gefördert werden, damit erzeugte regenerative Brennstoffe sind von Vorteil bei der Lagerung, dem Transport und der Nutzung.
+Durch das aktuell endliche Emissionsbudget wird der Preis mittelfristig innerhalb des Korridors kontinuierlich steigen, was klimaschonendes Handeln einen wirtschaftlichen Vorteil gegenüber emissionsbehafteten Handlungsweisen gibt. Die Vermeidung von Emissionen wird so von einem globalen, zukunftsgerichteten Interesse, zu einem individuellen, unmittelbaren Interesse von Konsument_innen und Produzent_innen. Gleichzeitig fallen für Treibhausgasemissionen jene Kosten an, die sie anderswo verursachen. Diese Entwicklung ist absehbar und planbar und gibt somit Raum für Innovation.
 
-Politisch sollten alle Möglichkeiten der Sonnenenergienutzung ergebnisoffen gleichbehandelt werden.
+Einen weiteren enormen Anreiz bieten CO2-Zertifikate für Technologien, die Treibhausgase aus der Atmosphäre entfernen. Wer eine Tonne CO2 aus der Atmosphäre entfernt, erhält dafür ein neues CO2-Zertifikat. Diese „Recyclingzertifikate“ sollen im Gegensatz zu den ausgegebenen Zertifikaten frei gehandelt werden dürfen. Langfristig ist also eine nachhaltige Kreislaufwirtschaft möglich und Klimaschutz wird zum Geschäftsmodell.
 
-Die eMobilität sollte in keiner Form ausdrücklich gefördert werden, da in einer Ökobilanz über den gesamten Lebenszyklus der Nutzen für Umwelt und Klima nicht sicher aufzuzeigen ist. Insbesondere Akkus und auch Brennstoffzellen sind bei der Rohstoffgewinnung, der Herstellung und der Entsorgung große Umweltbelaster, große Energieverbraucher. Ihr einziger nachweisbarer Vorteil ist die Schadstofffreiheit in der Nutzungsphase. Das ist gerade beim Thema Klima kein wesentlicher Vorteil.
+Staatlich ausgegebene CO2-Zertifikate sollen nicht auf Vorrat erworben werden können, sondern immer einem konkreten Ausstoß folgend, außer sie sollen explizit ungenutzt verfallen. Sie sind weder Investment- noch Handelsobjekte.
 
-Zwischen der Nische eMobilität und den derzeitigen Verbrennern können Hybridantriebe eine sinnvolle Ergänzung sein, die sich positiv auf Klima und Umwelt auswirkt, solange noch nicht ausreichend regenerativer Brennstoff zur Verfügung steht.
+Obwohl wir den Zertifikatehandel mit seiner Orientierung an der Gesamtmenge für das bessere Modell halten, lehnen wir auch eine CO2-Steuer mit ihrer Orientierung am Preis pro Tonne im Sinne der Bekämpfung der globalen Klimakrise nicht ab.
 
-Oft gibt es Widersprüche zwischen globaler Klimaschonung und lokalem Umweltschutz. Es müssen Lösungen bevorzugt werden, die beides ausgewogen erfüllen, derzeit mit Vorrang für den Klimaschutz (s. auch unter Programmpunkt <<4.2 Umwelt>>).
+Um mit diesem Prinzip der inländischen Wirtschaft keinen Wettbewerbsnachteil zu bescheren, sind Importe aus Ländern, die keine annährend gleich- oder sogar besserwertige CO2-Bepreisung vornehmen, ebenfalls an den Erwerb von Zertifikaten zu binden. Dies ist in einem neuartigen Lieferkettengesetz zu regeln, das auch humanitäre Aspekte beachtet.
 
-Da die Zeit drängt, ist es sinnvoll, alle vorhandenen Systeme wie Verbrenner und Heizungen in die Lage zu versetzen, einen großen Beitrag zu leisten.
+Für Privatleute ändert sich damit zunächst nur an wenigen Stellen etwas. CO2-Zertifikate müssen sie nur selten erwerben. Ausnahmen stellen zum Beispiel der Kauf von Heizöl und Kraftstoff dar. Hier ist eine den daraus entstehenden Emissionen entsprechende Menge an Zertifikaten zu bezahlen. So entfaltet der Zertifikatehandel seine Wirkung auch in der Verkehrspolitik.
 
-Es ist zu einfach, nur neue Systeme (Antriebe, Heizungen) zu fordern, denn das ist weder kurzfristig noch sozial eine brauchbare Lösung. Die meisten Menschen können sich einen kurzfristigen technischen Umstieg nicht leisten, da bringen auch Prämien und andere Förderungen nichts.
+Zu beachten ist, dass die steigenden Produktionskosten in der Wirtschaft mit großer Wahrscheinlichkeit annährend vollständig an die Konsument_innen weitergegeben werden würden. Um dem zu begegnen und eine Sozialverträglichkeit herzustellen, fordern wir die nachfolgend beschriebene Klimadividende.
 
-Auch wenn wir keine Zeit mehr zu verlieren haben, sollten wir uns trotzdem ausreichend Zeit nehmen bei den Lösungen. Technische Entwicklungen können und dürfen nicht politisch entschieden werden, sie müssen breit und offen ermöglicht werden und sich von selbst im Rahmen der Forschung ergeben.
+#### Klimadividende
 
-Wir müssen für technischen Wandel sozialen Ausgleich schaffen, alle mitnehmen. Dies sind für uns Sozialliberale Kernforderungen.
+Entscheidend für den Erfolg eines jeden Mechanismus zur Bepreisung von CO2 ist die Schaffung eines sozialen Ausgleichs, denn die zusätzlichen Kosten würden Bürger_innen mit geringem Einkommen anteilig zu diesem unproportional mehr belasten. Beispielsweise liegt der Anteil der Kosten für Energie am Einkommen bei Menschen mit einem niedrigen Einkommen erheblich viel höher als der bei solchen mit einem hohen Einkommen.
 
-Es ist unsere Verantwortung, die Umwelt auf unserem Planeten im bestmöglichen Zustand an die nächsten Generationen zu übergeben. Ohne erhebliche Reformen und Einschnitte steuert die Menschheit durch den menschengemachten Klimawandel weiter in eine existenzbedrohende Situation hinein.
+Um das auszugleichen, wollen wir den Zertifikatehandel durch eine Klimadividende ergänzen, in die die Einnahmen aus diesem fließen. Die Dividende soll an alle Bürger_innen in gleicher Höhe gezahlt werden. Wer also einen durchschnittlichen CO2-Ausstoß hat, zahlt genau so viel wie vor der Einführung des Zertifikatehandels. Wer unter dem Durchschnitt liegt, hat am Ende des Monats sogar mehr Geld auf dem Konto.
 
-Wir Liberale Demokraten wollen dieser Entwicklung durch möglichst wenige, aber wirkungsvolle und zielgerichtete Maßnahmen entgegentreten. 
+Dieser Betrag würde das von uns geforderte bedingungslose Grundeinkommen ergänzen.  
 
-### II. Mögliche Lösungswege
+#### Abbau klimaschädlicher Subventionen
 
-Wir sollten uns nicht zu sehr auf eine Bepreisung des entstehenden CO2 fokussieren, sondern bereits vor der Nutzung den fossilen Kohlenstoff bepreisen, unabhängig davon, wie und wann er verbrannt wird. Dazu muss eine Abgabe auf fossilen Kohlenstoff erhoben werden, um damit auch ein Verbrennen im späteren Produktzyklus gleich mit zu erfassen oder auch ein Vermüllen durch Kunststoffabfälle zu reduzieren. Soweit die Abgabe nicht schon vorher erhoben wird, wird sie fällig beim Import in die EU oder bei der Gewinnung in der EU.
+Die Emissionsbepreisung als marktwirtschaftliches Steuerelement darf nicht durch entgegenwirkende Subventionen torpediert werden.  
 
-Auch für Biomasse müssen angemessene Abgaben eingeführt werden, um die Nachhaltigkeit von Land- und Forstwirtschaft sicherzustellen. Nahrung und Baustoff haben Vorrang bei der Flächennutzung. Bioabfall kann verwendet werden, aber ansonsten ist der Einsatz von Pflanzen für Brennstoffe zu verhindern oder durch eine Abgabe zu erschweren.
+Konkret entfallen sollen schnellstmöglich unter anderem:
 
-Auch für andere Treibhausgase (z.B. Methan aus der Landwirtschaft) sind äquivalente Abgaben zu erheben.
+* Energiesteuerbefreiung für Kerosin
+* Mehrwertsteuerbefreiung für internationale Flüge
+* Kostenfreie Zuteilung von CO2-Zertifikaten im europäischen ETS
+* Energiesteuervergünstigungen für Dieselkraftstoff
 
-Als Kompromiss zwischen Bestandsschutz und Umstellung der Technik sind Übergangszeiten vorzusehen, in denen die Abgabe in Stufen ansteigt.
+### II. Nachhaltige Politik
+#### Generationengerechtigkeit ins Grundgesetz
 
-Wir Liberale Demokraten sehen in der Erforschung und Anwendung von Technologien für die Wiederverwendung von CO2 aus der Atmosphäre oder direkt bei der Entstehung (CCU) große Chancen zum Wirken gegen die Klimakrise und fordern deshalb, diese Entwicklungen zu fördern. Mit den dadurch erzeugten regenerativen Brennstoffen (eFuels) können vorhandene Verbrenner, ob Antriebe oder Heizungen, einen großen und wichtigen Beitrag zur Minderung des fossilen CO2 leisten.
+Wir wollen, dass die im Grundgesetz definierten Grundrechte im Sinne der Generationengerechtigkeit auf zukünftige Generationen erweitert werden. So ist das Handeln der Politik und der öffentlichen Hand dauerhaft an einen Schutz des Klimas und unserer Zukunft gebunden.
 
-Wir Liberale Demokraten lehnen die Hochdruckspeicherung von CO2 in Kavernen (CCS) ab, da sie mit geologischen, seismologischen, biologischen und klimatischen Risiken behaftet sind.
+#### Technologieoffenheit
 
-Die Bindung von CO2 aus der Atmosphäre durch Aufforstung ist nur begrenzt und nachhaltig sinnvoll, weil bei zu großem weltweiten Waldbestand diese weniger Wärme abstrahlenden Flächen sogar zur Erwärmung beitragen können und außerdem das Wachsen der Neupflanzungen viel zu lange dauert, um den notwendigen kurzfristigen Effekt zu haben.
-Aufforstung an sich ohne Betrachtung der Folgen ist keine Lösung.
+Lösungen nur in einzelnen Technologien zu suchen, halten wir für nicht sinnvoll. Das gilt sowohl mit Blick auf tradierte Lösungen wie den Verbrennungsmotor, als auch in Hinsicht auf moderne Alternativen wie batterieelektrische Antriebe.  
 
-Nach Auffassung der Liberalen Demokraten sind zwingend klima- und umweltfreundliche Möglichkeiten zu schaffen, um Energieüberschüsse, sollte einmal der Energiebedarf witterungsbedingt nicht gedeckt werden können, speichern zu können. Die Erforschung dieser Technologien zur Überbrückung sog. Dunkelflauten ist konsequent zu fördern und stetig voranzutreiben. Dazu gehören auch regenerative Brennstoffe.
+Die Politik sollte lediglich das Ziel festsetzen und durch einen leistungsfähigen gesetzlichen Rahmen allgemeingültig werden lassen. Wie wir wo Treibhausgase einsparen spielt keine Rolle – wichtig ist, dass wir sie einsparen.  
 
-Zusätzlich muss zur Gewährleistung der Versorgungssicherheit und der Systemstabilität das Energiesystem flexibler aufgestellt werden. Hierzu benötigt es ein Strommarktdesign, welches flexible Erzeugung, flexiblen Verbrauch und flexible Speicherung ermöglicht, fördert und zudem Rahmenbedingungen für eine langfristige Investitionssicherheit schafft.
+Dafür müssen verursachte Klimaschäden mit einem Preis versehen werden, statt einzelne Technologien übermäßig zu fördern – so wird die klimaschonende Alternative automatisch die günstigere werden.
 
-Die Liberalen Demokraten fordern den internationalen Stromhandel im Sinne des Klima- und Umweltschutzes zu regulieren. So sollte möglichst bald für die Energieversorgung Deutschlands und der EU nur noch regenerativ erzeugter Strom zugekauft werden dürfen. Abgaben für unerwünschte Rohstoffe und ihre Nutzung sollten Vorrang haben vor Förderungen für erwünschte Verfahren. Subventionen für klimaschädliche Rohstoffe und Verfahren sollte es nicht geben.
+Entscheidend ist allerdings, dass die Politik selbstständig entstandene Wachstums-, Entwicklungs- und Ausbauprozesse begleitet und unterstützt, um einen schnellen Wandel zu ermöglichen.
 
-### III. Sozialer Ausgleich
+#### Industrie
 
-Die Möglichkeit, vorhandene Verbrenner mit regenerativen Treibstoffen zunächst weiter zu verwenden, entlastet die Verbraucher bei Neuanschaffungen und bremst den Abbau von Arbeitsplätzen.
+In vielen Bereichen der Industrie entstehen durch chemische Prozesse Treibhausgase. Diese werden durch den Zertifikatehandel zwar erfasst, allerdings müssen auch langfristige Lösungen für unsere Unternehmen gefunden werden.
 
-Entscheidend für den Erfolg eines jedweden Mechanismus zur Bepreisung von CO2 ist die Schaffung eines sozialen Ausgleichs, denn die zusätzlichen Kosten würden Bürger_innen mit geringem Einkommen anteilig zu diesem überproportional mehr belasten. Um das auszugleichen, muss eine Abgabe durch eine Klimadividende ergänzt werden.
+Als Anreiz für eine klimaneutrale Produktion sollte es Zertifizierungsprogramme für treibhausgasneutrale Materialien geben. Zudem sollten Modellprogramme für den Umstieg auf neue Produktionsweisen unterstützt und gefördert werden. Ersetzbare klimaschädliche Substanzen und Methoden müssen durch gesetzliche Rahmenbedingungen schrittweise aus der Anwendung ausgeführt werden.
 
-Die Dividende soll an alle Bürger_innen in gleicher Höhe gezahlt werden. Wer also einen durchschnittlichen CO2-Ausstoß hat, zahlt genau so viel wie vor der Einführung der Abgabe. Wer unter dem Durchschnitt liegt, hat am Ende des Monats sogar mehr Geld auf dem Konto. Dieser Betrag würde das von uns geforderte bedingungslose Grundeinkommen ergänzen. 
+Abwärme aus der Industrie muss in Zukunft gespeichert und weiterverwendet werden, insbesondere in auszubauenden Nah- und Fernwärmesystemen. Kommunale Energieversorger sollten von ihren Trägern zur Umsetzung solcher Maßnahmen verpflichtet werden.
 
-Wir Liberale Demokraten fordern eine Dezentralisierung der Energieversorgung in Deutschland. Dies bedeutet, dass alle Bürger_innen aktiv an der Energiegewinnung teilhaben können, indem sie beispielsweise ihr Dach mit PV-Feldern ausrüsten lassen oder andere geeignete Maßnahmen ergreifen. Den Bürgern sollen dadurch keine Kosten entstehen, sie stellen nur die Flächen zur Verfügung. Die Energieversorger finanzieren, installieren und betreiben die Anlagen, die Abzahlung erfolgt zinslos durch die Einspeisung ins Netz. Selbst genutzte Entnahme ist kostenlos.
+#### Bauvorhaben
 
-Um dies zu ermöglichen ist das Stromnetz für diese Zwecke durch die Netzbetreiber anzupassen und auszurichten.
+Bauten der öffentlichen Hand sollten strengen Klimaschutzvorgaben unterworfen sein. Die Menge des verwendeten Betons sollte reduziert werden, während der Einsatz von Leichtbaustrategien und alternativer oder recycelter Materialien ausgeweitet wird. Dies muss auch bei generellen Bauverordnungen bedacht werden.
 
-Lokale und kleinere Energieerzeuger — unabhängig ob Privatperson oder Unternehmen — müssen sich zudem ohne größeren Aufwand oder Hindernisse in Form von demokratischen Genossenschaften als Netzbetreiber zusammenschließen dürfen.
+#### Bestehende Anlagen und Systeme
 
-### IV. Klimaschutz weltweit 
-Der Schutz unseres Planeten und somit auch seines Klimas muss zu einem zentralen Anliegen der deutschen und europäischen Außenpolitik werden.
+Für eine erfolgreiche Klimapolitik ist es entscheidend, Gesamtprozesse auf ihre klimatischen Folgen zu untersuchen, nicht nur einzelne Elemente. Zu oft liegt der Fokus der Öffentlichkeit allein auf der Nutzungsphase zum Beispiel von Antrieben und Heizungen.
 
-Um die Erderwärmung zu stoppen reichen Maßnahmen auf dem deutschen Staatsgebiet nicht aus. Deshalb wollen wir Liberale Demokraten Deutschland und Europa zum Vorreiter bei der Umsetzung solcher Maßnahmen machen, der weltweit als Vorbild fungieren kann. 
+Dabei ist wichtig zu beachten, dass bereits im Betrieb befindliche Anlagen weiter zu nutzen in vielen Fällen mittelfristig klimatisch sinnvoller ist, als neue Systeme anzuschaffen. Gerade in Gebieten mit rapiden technologischen Entwicklungen sollte deshalb nicht vorschnell durch Förderprogramme der Status Quo ersetzt werden, wenn der nächste Umbruch bereits in Sicht ist.  
 
-Denn nur wenn wir zeigen, dass es möglich ist das Klima zu schützen und Wohlstand zu wahren, können wir erwarten, dass Länder mit einem niedrigeren Lebensstandard als in Europa, wirtschaftliche Einbußen in Kauf nehmen.
+Ansonsten sind die Gesamtemissionen gegebenenfalls sogar höher als zuvor und durch die finanzielle Belastung geht die Bereitschaft zu einem erneuten Umstieg verloren.
 
-Erforderlich ist auch, dass Europa und Deutschland sich klar zu den bestehenden und neuen Klimaabkommen bekennen und sie global aktiv unterstützen und vorantreiben und Klima gerechte Entwicklungshilfe leisten.
+#### Kreislaufwirtschaft
 
-Die Industriestaaten haben über ein Jahrhundert hinweg ungebremst Treibhausgase emittiert. Es wäre vermessen, von Entwicklungsländern zu erwarten, nun aus eigener Kraft diese Phase völlig überspringen zu können. 
+Um unser Klima zu schützen ist es entscheidend, dass wir unsere Produktion nicht nur neugestalten, sondern sie wo möglich auch vermeiden. Einweg- und Wegwerfartikel sollten zu Auslaufmodellen werden, Pfandprogramme weiter ausgeweitet.  
 
-Deshalb müssen die Emittenten der Vergangenheit sich ihrer Verantwortung bewusst werden und eine Entwicklungshilfe leisten, die es anderen Staaten ermöglicht ihr neues wirtschaftliches Wachstum klimatisch sauber zu gestalten.
+Im Bereich der elektrischen Produkte müssen ein Recht auf Reparierbarkeit und höhere Garantievorgaben die jeweiligen Lebensdauern erhöhen.  
 
-So können wir die klimatischen Vergehen unserer Vergangenheit kompensieren.
+#### Treibhausgase nutzbar machen  
+
+Carbon Capture and Utilization (CCU) bzw. Carbon Dioxid Utilization (CDU) Technologien entnehmen dem Emissionsstrom oder der Atmosphäre CO2 und binden es chemisch, bzw. speichern es, um es anschließend einer neuen Nutzung zuzuführen. So kann eine CO2-Kreislaufwirtschaft erreicht werden.  
+
+Wir Liberale Demokraten sehen in der Erforschung und Anwendung dieser Technologien große Chancen zum Wirken gegen die Klimakrise und fordern deshalb sie zu fördern.
+
+#### Treibhausgase speichern  
+
+Im Gegensatz dazu sehen wir Carbon Capture and Storage (CSS) Technologien, also solche, die CO2 abscheiden und es anschließend speichern, kritisch. Speicherung bedeutet hier zumeist eine dauerhafte unterirdische Einlagerung in tiefliegenden Erdschichten. Das abgeschiedene CO2 wird dabei unter hohem Druck in diese Erdschichten eingebracht.  
+
+Dieses Vorgehen ist ähnlich dem sogenannten Fracking bei der Erdgasgewinnung und mit den identischen geologischen, seismologischen, biologischen und klimatischen Risiken behaftet. Auch ist nicht garantiert, dass das CO2 nicht früher oder später unkontrolliert in die Atmosphäre entweicht und so das Weltklima doch noch negativ beeinflusst.  
+
+Wir lehnen den Einsatz der aktuellen CCS-Technologie auf Grund dieser Tatsachen ab und fordern ein weltweites Verbot.  
+
+#### Wälder und Moore
+
+Aufforstung ist kein eigenständiges Lösungskonzept für den Klimawandel. Gleichzeitig kann eine ökologische und im Sinne der Nahrungsversorgung nachhaltige Aufforstung den Kampf gegen die Erderwärmung unterstützen und lokale Ökosysteme stärken[5]. Mehr Grün in unserer Umgebung hat zudem erwiesene positive Auswirkungen auf die psychische Gesundheit.
+
+Wir fordern deshalb Aufforstungsprogramme nach genauer Prüfung gezielt zu fördern. Aufforstung sollte auch ein Teil unserer internationalen Entwicklungszusammenarbeit sein.
+
+In jedem Fall gilt es Rodungen auf ein Minimum zu beschränken, da dabei große Mengen an CO2 freigesetzt werden. Noch stärker tritt dieser Effekt bei Mooren auf, diese müssen unbedingt erhalten werden.
+
+#### Klima vs. Umwelt
+
+Oft wird in der Klimapolitik die globale Erderwärmung gegen den lokalen Umweltschutz ausgespielt. Das lehnen wir ab. Es muss unser Ziel sein sowohl das Klima als auch die Umwelt zu schützen.
+
+Dazu fordern wir unter anderem ein leistungsfähiges Lieferkettengesetz, das neben Klimafolgen und humanitären Aspekten auch Vorgaben für den Umweltschutz macht.
+
+### III. Klimaschutz weltweit
+
+#### Vorreiterrolle Deutschlands
+
+Der Schutz unseres Planeten und somit auch seines Klimas muss zu einem zentralen Anliegen der deutschen und europäischen Außenpolitik werden. Um die Erderwärmung zu stoppen, reichen Maßnahmen auf dem deutschen Staatsgebiet nicht aus. Deshalb wollen wir Liberale Demokraten Deutschland zum Vorreiter bei der Umsetzung solcher Maßnahmen machen, der weltweit als Vorbild fungieren kann. Denn nur wenn wir demonstrieren, dass es möglich ist das Klima zu schützen und gleichzeitig Wohlstand zu wahren, können wir erwarten, dass Länder mit einem ökonomisch niedrigeren Lebensstandard als in Europa kurzfristige wirtschaftliche Einbußen in Kauf nehmen.
+
+Erforderlich ist auch, dass Europa und Deutschland sich klar zu den bestehenden und neuen Klimaabkommen bekennen und sie global aktiv unterstützen und vorantreiben.  
+
+Im Rahmen unserer Forderung der Klimaneutralität bis 2035 fordern wir, dass nicht realistisch vermeidbare Emissionen, die über unser nationales Emissionsbudget hinausgehen, durch Investitionen in den Klimaschutz im Ausland im gleichen Maße kompensiert werden, sofern dort wiederum ein kompatibles Klimaziel gesetzlich verankert ist.
+
+#### Klimagerechte Entwicklungszusammenarbeit
+
+Die Industriestaaten haben über ein Jahrhundert hinweg ungebremst Treibhausgase emittiert. Es wäre vermessen, von Entwicklungsländern nun zu erwarten, aus eigener Kraft diese Phase völlig überspringen zu können. Deshalb müssen die Emittenten der Vergangenheit sich ihrer Verantwortung bewusstwerden und eine Entwicklungszusammenarbeit leisten, die es anderen Staaten ermöglicht ihr neues wirtschaftliches Wachstum klimatisch sauber zu gestalten. So kompensieren wir die klimatischen Vergehen unserer Vergangenheit.   
+
+### IV. Vorbereitung auf die Folgen der Klimakrise
+
+Wir sollten nicht ausschließlich das Verhindern der Klimakrise im Blick haben, sondern auch für ihre bereits heute dramatischen Folgen, wie Trockenheit und Überflutungen, Vorsorge treffen. Trockenheit beeinflusst nicht nur Ernten, Wälder und die Trinkwasserversorgung, sondern kann auch zum Abschalten von Kraftwerken führen. Überflutungen hätten umfangreiche Umsiedlungen und Fluchtbewegungen zur Folge.
+
+Deshalb müssen alle wichtigen Infrastrukturen eingehend auf ihre Katastrophensicherheit bei einem fortschreitenden Klimawandel geprüft werden. Es müssen Fonds etabliert werden, um Folgeschäden des Klimawandels aufzufangen. Letzteres muss auch Teil der Entwicklungshilfe im Ausland sein.  
+
+Vorsorge bedeutet auch, sich jetzt Gedanken zu machen über Infrastrukturen, Pläne und Organisationen für den Ernstfall. Die Katastrophenvorsorge ist Teil einer konsequenten Klimapolitik.
+
+Nicht zuletzt muss den durch die Klimakrise verstärkten Flüchtlingsströmen durch eine humane und geordnete Einwanderungspolitik begegnet werden.
