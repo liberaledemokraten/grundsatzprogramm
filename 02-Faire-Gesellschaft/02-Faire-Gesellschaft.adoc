@@ -13,3 +13,5 @@ include::2.5-Gesundheit.adoc[]
 include::2.6-Drogen.adoc[]
 
 include::2.7-JustizVollstreckung.adoc[]
+
+include::2.8-VielfaltToleranzGleichberechtigung.adoc[]
